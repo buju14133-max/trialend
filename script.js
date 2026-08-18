@@ -12,7 +12,7 @@
   ==========================================
 */
 
-const WHATSAPP_LINK = "https://wa.me/2348180112699";
+const WHATSAPP_LINK = "https://wa.me/2348180112699?text=Hello%20DSB";
 
 const whatsappButton = document.getElementById("whatsappButton");
 
