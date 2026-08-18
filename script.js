@@ -7,7 +7,7 @@
   actual WhatsApp DM link.
 
   Example:
-  https://wa.me/2348012345678?text=Hello%20DSB
+  https://wa.me/2348180112699?text=Hello%20DSB
 
   ==========================================
 */
