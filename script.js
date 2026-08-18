@@ -12,10 +12,12 @@
   ==========================================
 */
 
-const WHATSAPP_LINK = "https://wa.me/2348180112699?text=Hello%20DSB";
+const WHATSAPP_LINK =
+  "https://wa.me/2348180112699?text=Hello%20DSB";
 
-const whatsappButton = document.getElementById("whatsappButton");
+const whatsappButton =
+  document.getElementById("whatsappButton");
 
-if (WHATSAPP_LINK && WHATSAPP_LINK !== "https://wa.me/2348180112699") {
-  whatsappButton.href = https://wa.me/2348180112699;
+if (whatsappButton) {
+  whatsappButton.href = WHATSAPP_LINK;
 }
